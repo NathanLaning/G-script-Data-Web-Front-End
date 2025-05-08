@@ -28,7 +28,7 @@ The sheets communicate very simply. There are some standardized libraries in the
       "sheet_name":             "Mainly for keeping track, is made from the request itself",
       "sheet_id":               "Mainly for keeping track, is made from the request itself",
       "time_requested":         "Mainly for keeping track, is generated at the time of receiving the request",
-      "conversion_dictionary":  "This contains the headers in a dictionary that uses indices. For example { "id":0, "name":1, "data":2,...}",
+      "conversion_dictionary":  "This contains the headers in a dictionary that uses indices. For example { 'id':0, 'name':1, 'data':2,...}",
       "data":                   "Allll of the sheet data, all it filters is the headers and any rows that are marked as disabled" 
   }
   ```
