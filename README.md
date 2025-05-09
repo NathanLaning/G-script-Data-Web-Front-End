@@ -10,6 +10,8 @@ Since it is all sheets and Google script, this is mainly to keep track of everyt
 
 [New Entries](https://script.google.com/home/projects/1THd3mzdcqkWxleeVH7N-DythOmEQiyQeYy45eYJmr5Dkvghu6JHMv438/edit)
 
+[Specific Entry](https://script.google.com/home/projects/1CukVkiWCiBmJ7lY2-Z497inLZHamyxsG1R5CcU0MQWhKRuvZ2pXKQbOU/edit)
+
 [Sheets Library](https://script.google.com/home/projects/1VpRuC3-W2ZsQ_NSrhe2KwtMfmBOUc-W94UexGNipwuD7tvTkvugRorrw/edit)
 
 The sheets can be dynamically changed by simply altering the sheet itself, for example in the [data tab](https://docs.google.com/spreadsheets/d/1_EwuEdZr56JaZavnDyAm9YRJdtSePABi_UgLd7l1-mI/edit?gid=0#gid=0) one can add a new column to the left and the data pull will use it and pull the column name assigned so it can be used. However there is no link between the [fields](https://docs.google.com/spreadsheets/d/1_EwuEdZr56JaZavnDyAm9YRJdtSePABi_UgLd7l1-mI/edit?gid=1880282481#gid=1880282481) and the [data](https://docs.google.com/spreadsheets/d/1_EwuEdZr56JaZavnDyAm9YRJdtSePABi_UgLd7l1-mI/edit?gid=0#gid=0) tabs yet. I think this could be easily done, but is low on the list for improvements right now. So updating one more or less necessitates updateing the other
